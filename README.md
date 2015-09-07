@@ -1,3 +1,5 @@
+This is the code and data for a <a href="http://www.cholick.com/entry/show/283">blog post about JetBrains licensing changes</a>
+
 A small chunk of quick and dirty Groovy to do sentiment analysis on four posts about the recent announcement
 around [Jetbrains pricing change](https://www.jetbrains.com/toolbox/).
 
